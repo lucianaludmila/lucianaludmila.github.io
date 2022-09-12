@@ -1,9 +1,9 @@
-<table border="0" width="100%">
-<tr><td>
+<table border="0" width="800">
+<tr><td width="650">
 <h1>Luciana Ludmila</h1>
 lucianaludmila@bb.com.br | <a href="https://www.linkedin.com/in/luciana-ludmila-costa-155171154"> linkedin </a>
-<td>
-<img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
+<td width="150">
+<img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="100"/>
 </td></tr>
 </table>
 
