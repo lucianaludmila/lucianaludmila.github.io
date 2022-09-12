@@ -1,17 +1,16 @@
-# Luciana Ludmila
-<table  border=0>
-<tr><td rowspan=2>
-<img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
-</td>
-<td>
-lucianaludmila@bb.com.br | <a href="https://www.linkedin.com/in/luciana-ludmila-costa-155171154">linkedin</a> | 
-</td></tr>
+<table border="0" width="100%">
 <tr><td>
-<ul>
-<li>Posse na BB DTVM em 14/10/2013</li>
-<li>Posse no Banco do Brasil em 26/10/2007</li>
-</ul>
+<h1>Luciana Ludmila</h1>
+lucianaludmila@bb.com.br | a href="https://www.linkedin.com/in/luciana-ludmila-costa-155171154"> linkedin </a>
+<td>
+<img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
 </td></tr>
+</table>
+
+
+## Perfil
+- Posse na BB DTVM em 14/10/2013
+- Posse no Banco do Brasil em 26/10/2007
 </table>
 
 ## Realizações
