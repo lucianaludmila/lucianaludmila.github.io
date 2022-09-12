@@ -2,7 +2,7 @@
 # Currículo 
 ![avatar](https://lucianaludmila.github.io/images/eu.jpg)
 
-lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmila-costa-155171154) | 
+lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmila-costa-155171154 =263x351) | 
 
 ## Perfil
 - Posse na BB DTVM em 14/10/2013
