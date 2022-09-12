@@ -16,7 +16,7 @@ lucianaludmila@bb.com.br | <a href="https://www.linkedin.com/in/luciana-ludmila-
 
 ## Realizações
 
-#### Projeto Offoshore (atual)
+#### Projeto Offshore (atual)
 Atuando como Líder Técnico de uma equipe de 3 desenvolvedores contratados da fábrica de software Montreal S.A.
 
 #### BUS - Base Única Segura
@@ -43,7 +43,7 @@ Analista e desenvolvedora do sistema Carps criado para governança do processo d
 - Suporte à sistemas legados ASP, Java e Delphi
 - Desenvolvimento de processos para automação de rotinas com python e Pentaho
 
-#### Assessor I (out/2013 - maio/2014)
+#### Assessor III (out/2013 - maio/2014)
 - Desenvolvimento de sistemas departamentais em Java
 - Desenvolvimneto e suporte das páginas em asp da Intranet da BBDTVM
 
