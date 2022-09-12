@@ -12,7 +12,7 @@ lucianaludmila@bb.com.br | <a href="https://www.linkedin.com/in/luciana-ludmila-
 ## Perfil
 - Posse na BB DTVM em 14/10/2013
 - Posse no Banco do Brasil em 26/10/2007
-</table>
+
 
 ## Realizações
 
