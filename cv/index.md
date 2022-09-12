@@ -1,5 +1,4 @@
 # Luciana Ludmila
-# Currículo 
 <img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
 
 lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmila-costa-155171154) | 
@@ -11,20 +10,20 @@ lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmil
 
 ## Realizações
 
-#### Projeto Offoshore
+#### Projeto Offoshore (atual)
 Atuando como Líder Técnico de uma equipe de 3 desenvolvedores contratados da fábrica de software Montreal S.A.
 
 #### BUS - Base Única Segura
-Atuando como parte da equipe inicial de desenvolvimento da solução para Base Única Segura.
+Parte da equipe inicial de desenvolvimento da solução para Base Única Segura.
 
 #### REB - Controle de Rebates de Fundos de Investimentos
-Atuando como parte da equipe desenvolvedora do sistema de Controle de Rebates de Fundos de Investimentos da Empresa.
+Membro da equipe desenvolvedora do sistema de Controle de Rebates de Fundos de Investimentos da Empresa.
 
 #### TRD - Trader Boletagem Offshore
-Atuando como parte da equipe desenvolvedora do sistema de Boletagem de ativos internacionais para as áreas de Gestão dos Fundos de Investimento da Empresa.
+Membro da equipe desenvolvedora do sistema de Boletagem de ativos internacionais para as áreas de Gestão dos Fundos de Investimento da Empresa.
 
 #### CIP - Controle Investimento Pessoal
-Atuando como parte da equipe desenvolvedora do sistema de Controle Investimentos Pessoais para a área de Compliance.
+Membro da equipe desenvolvedora do sistema de Controle Investimentos Pessoais para a área de Compliance.
 
 #### CARPS - Controle e Avaliação de Riscos de Produtos e Serviços.
 Analista e desenvolvedora do sistema Carps criado para governança do processo de criação de Fundos.
