@@ -1,6 +1,6 @@
-## Luciana Ludmila
+# Luciana Ludmila
 # Currículo 
-![avatar](https://lucianaludmila.github.io/images/eu.jpg =263x351)
+<img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
 
 lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmila-costa-155171154) | 
 
