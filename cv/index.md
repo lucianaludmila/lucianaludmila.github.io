@@ -1,12 +1,17 @@
 # Luciana Ludmila
+<table>
+<tr border=0><td rowspan=2>
 <img src="https://lucianaludmila.github.io/images/eu.jpg" alt="Foto" width="200"/>
-
+</td>
+<td>
 lucianaludmila@bb.com.br | [linkedin](https://www.linkedin.com/in/luciana-ludmila-costa-155171154) | 
-
+</td></tr>
+<tr><td>
 ## Perfil
 - Posse na BB DTVM em 14/10/2013
 - Posse no Banco do Brasil em 26/10/2007
-
+</td></tr>
+</table>
 
 ## Realizações
 
